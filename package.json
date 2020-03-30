@@ -1,0 +1,12 @@
+{
+  "name": "24hourproject",
+  "version": "1.0.0",
+  "dependencies": {
+    "gm": "1.23.1",
+    "big-integer": "1.6.48",
+    "math-random": "1.0.4"
+  },
+  "devDependencies": {
+    "aws-sdk": "2.176.0"
+  }
+}
