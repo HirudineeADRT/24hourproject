@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "24hourproject.js",
         "cursor": {
-          "lineNumber": 9,
-          "column": 27
+          "lineNumber": 8,
+          "column": 18
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -248,7 +248,7 @@
     "platform": "AWS",
     "platformRegions": {},
     "language": "nodejs",
-    "lastSave": 1585567388581
+    "lastSave": 1585657247598
   },
   "VCS_STATE": {
     "provider": "GitHub",

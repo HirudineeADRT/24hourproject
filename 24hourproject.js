@@ -5,7 +5,7 @@ exports.handler = async (event) => {
 
     let x = bigInt(6).and(3);
     console.log("bigInt output : "+x);
-
+    //add comment
     console.log(random());
 
     return { "message": "Successfully executed" };
